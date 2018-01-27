@@ -1,0 +1,26 @@
+{
+  "name": "template",
+  "version": "1.0.0",
+  "description": "my template",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sibdial/template.git"
+  },
+  "author": "sibdial",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sibdial/template/issues"
+  },
+  "homepage": "https://github.com/sibdial/template#readme",
+  "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-typescript": "^3.2.4",
+    "typescript": "^2.6.2"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "name": "my template",
+  "devDependencies": {
+    "susy": "^3.0.2",
+    "breakpoint-sass": "^2.7.1"
+  }
+}
